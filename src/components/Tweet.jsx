@@ -1,10 +1,11 @@
 
 
-import ProfileImage from "./ProfileImage.jsx";
-import User from "./User.jsx";
-import Timestamp from "./Timestamp.jsx";
-import Message from "./Message.jsx";
-import Actions from "./Actions.jsx";
+import ProfileImage from "./ProfileImage/ProfileImage.jsx";
+import User from "./User/User.jsx";
+import Timestamp from "./Timestamp/Timestamp.jsx";
+import Message from "./Message/Message.jsx";
+import Actions from "./Actions/Actions.jsx";
+
 
 function Tweet({ tweet }) {
   
